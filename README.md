@@ -1,2 +1,2 @@
 # EmployeeAttrationRate
-https://pratha2.streamlit.app/
+https://employe-attration-rate-ccnndwnyycsg73xdtnddhg.streamlit.app/
